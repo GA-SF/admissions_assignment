@@ -1,3 +1,5 @@
+![GA Logo](https://raw.github.com/generalassembly/ga-ruby-on-rails-for-devs/master/images/ga.png)
+
 ## WDI Admissions Assignment
 
 Congratulations on making it to the second round of the admissions process for Web Development Immersive (WDI) at General Assembly! 
@@ -17,7 +19,7 @@ Make sure to include:
   - A section telling us more about you, your experience, and your contact information.
   - A picture of you in the center of the page, and two additional images with captions (one placed in the top right of your page, and one place in the bottom left).
   - An image carousel, with at least 3 images, written in JavaScript. Feel free to use outside resources in addition to the Dash tutorial, and don't be afraid to experiment - have fun with it! 
-  DO NOT copy & paste the code. We expect you to be prepared to talk about the code you've written and explain to us how you approached the problem during the technical portion of the interview. 
+  **DO NOT copy & paste the code.** We expect you to be prepared to talk about the code you've written and explain to us how you approached the problem during the technical portion of the interview. 
   
   **Be sure to create all of the necessary files inside the local copy of your GitHub Pages repository!** As you work, remember to save your files, [add and commit your changes to the repository](https://help.github.com/articles/making-changes#make-a-change), and sync everything back to GitHub.com.
 
